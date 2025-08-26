@@ -39,3 +39,13 @@ A Lightning Web Component demonstrating two-way data binding with dynamic CSS. U
     padding: 5px;
     border-radius: 8px;
 }
+.blueText {
+    color: blue;
+    font-weight: bold;
+}
+.italicText {
+    font-style: italic;
+}
+.monoText {
+    font-family: "Courier New", monospace;
+}
