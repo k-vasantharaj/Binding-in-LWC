@@ -1,0 +1,14 @@
+.redText {
+    color: red;
+    font-weight: bold;
+}
+
+.bigText {
+    font-size: 25px;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 8px;
+}
