@@ -9,7 +9,6 @@ A Lightning Web Component demonstrating two-way data binding with dynamic CSS. U
 <img width="325" height="190" alt="italicText" src="https://github.com/user-attachments/assets/7ecf9183-8b39-4124-bb04-4fd48a1e0beb" /><img width="317" height="168" alt="redText" src="https://github.com/user-attachments/assets/beb2d2d4-4f57-4505-ab81-7008de6a0897" />
 
 
-s://github.com/user-attachments/assets/60a50830-3530-4f17-8840-8d1c1cac2130" />
 
 - Apply dynamic CSS styling using two-way binding.
 - Supports multiple styles (`.redText`, `.bigText`, `.highlight`).
