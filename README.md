@@ -3,8 +3,13 @@
 ## Description
 A Lightning Web Component demonstrating two-way data binding with dynamic CSS. Users can enter a CSS class name in the input box, apply it to text on button click, and the input clears for the next style entry.
 <img width="325" height="190" alt="bigText" src="https://github.com/user-attachments/assets/3905cdb2-b5ca-440d-8b81-ef4c78a8e278" />
+<img width="323" height="179" alt="blueText" src="https://github.com/user-attachments/assets/49c14364-b856-4dcc-a828-a969408fc397" />
+<img width="320" height="180" alt="highlight" src="https://github.com/user-attachments/assets/f7904de7-c003-4361-9238-55acabb81e93" />
+<img width="323" height="176" alt="monoText" src="https://github.com/user-attachments/assets/13dcc63d-4521-4ca5-96fb-008f3c1b8081" />
 
-## Features
+## Features<img width="325" height="190" alt="italicText" src="http<img width="317" height="168" alt="redText" src="https://github.com/user-attachments/assets/f4e175e3-40ad-483a-bb5d-5c5cba59f73f" />
+s://github.com/user-attachments/assets/60a50830-3530-4f17-8840-8d1c1cac2130" />
+
 - Apply dynamic CSS styling using two-way binding.
 - Supports multiple styles (`.redText`, `.bigText`, `.highlight`).
 - Input resets after applying style.
