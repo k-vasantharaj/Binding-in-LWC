@@ -21,9 +21,9 @@ A Lightning Web Component demonstrating two-way data binding with dynamic CSS. U
 3. Add the component to a Lightning page (App Builder).
 
 ## Usage
-1. Type a class name (e.g., `redText`, `bigText`, or `highlight`) in the input box.
+1. Type a class name (e.g., `redText`, `bigText`, `highlight`, `blueText`, `italicText` `monoText`) in the input box.
 2. Click **Apply Style**.
-3. The text "AJ SKILL DEVELOPMENT" updates with the applied style.
+3. The text "Style Me!" updates with the applied style.
 
 ## Example Styles
 ```css
