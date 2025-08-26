@@ -1,0 +1,16 @@
+
+---
+
+**`lwcBinding.html`**
+```html
+<template>
+   <lightning-card title="Data Binding in CSS">
+      <div class="slds-p-around_medium">
+         <div class="slds-text-align_center">
+            <div class={chosenStyle}>AJ SKILL DEVELOPMENT</div>
+         </div>
+         <lightning-input type="text" label="Enter styling" value={style} onchange={handleStyleChange}></lightning-input>
+         <lightning-button variant="brand" label="Apply style" onclick={handleStyleApply}></lightning-button>
+      </div>
+   </lightning-card>
+</template>
